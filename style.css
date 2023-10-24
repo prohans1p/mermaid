@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color: white;
+    background-image: url(download\ \(5\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: auto;
+}
+
+.col-sm-4{
+    text-align: center;
+}
+
+.container{
+    background-color: black;
+
+}
